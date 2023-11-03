@@ -71,7 +71,7 @@ table {
 
 
 .back {
-    background-image: url(images/museum_background.jpeg);
+    background-image: url(images/Dubai-Future-Museum.jpeg);
     background-size: cover;
     padding-top: 2%;
     padding-bottom: 40%;
@@ -80,7 +80,7 @@ table {
 
 .head {
     border-radius: 10px;
-    background-color: rgb(59, 51, 172);
+    background-color: rgb(17, 0, 255);
     color: white;
     text-align: center;
     margin-left: 2%;
