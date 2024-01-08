@@ -1,0 +1,173 @@
+:root {
+  --primary: #010101;
+  --bg: rgb(255, 255, 255);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--bg);
+  color: rgb(77, 74, 253);
+}
+
+img {
+  width: 30%;
+  text-align: center;
+  padding-bottom: 2%;
+  margin-left: 35%;
+  margin-right: 0%;
+}
+
+.J {
+  height: 70px;
+  width: 120px;
+  margin-left: 3%;
+}
+
+.back {
+  background-image: url(image/vans_bg.jpg);
+  background-size: cover;
+  padding-top: 2%;
+  padding-bottom: 40%;
+  background-attachment: fixed;
+}
+
+.head2 {
+  color: white;
+  background: rgb(46, 23, 253);
+  text-align: center;
+  border: 5px solid rgb(153, 153, 153);
+}
+
+.wrapper-content {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  color: white;
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+  color: black;
+  font-family: verdana, sans-serif;
+  text-align: justify;
+}
+
+.wrapper-content p span {
+  color: blue;
+}
+
+.img .pback {
+  border-radius: 10px;
+  border-style: solid white;
+  background-color: rgb(46, 23, 253);
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.director {
+  list-style-type: square;
+  text-align: center;
+  color: black;
+  font-size: 100%;
+  font-family: verdana, sans-serif;
+}
+
+#D {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border: 10px solid rgb(46, 23, 253);
+}
+
+ul {
+  padding-left: 64px;
+  color: black;
+  font-family: "Franklin Gothic";
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  margin: auto;
+}
+
+table {
+  width: 50%;
+}
+
+.table1 {
+  width: 50%;
+  border: 1px solid;
+  margin: auto;
+}
+
+.link {
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 0%;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  background-size: cover;
+  color: black;
+  font-family: monospace;
+  text-align: left;
+}
+.fa-facebook {
+  color: #3b5998;
+  margin-left: 5%;
+}
+
+.fa-youtube {
+  color: #ff0000;
+  margin-left: 2%;
+}
+
+.fa-square-instagram {
+  color: black;
+  margin-left: 2%;
+}
+
+.fa-tiktok {
+  color: black;
+  margin-left: 2%;
+}
+
+.nama {
+  background-color: black;
+  color: white;
+  padding-left: 0px;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-bottom: 1%;
+  text-align: center;
+  border: 5px solid rgb(46, 23, 253);
+}
